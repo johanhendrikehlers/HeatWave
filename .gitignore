@@ -17,7 +17,15 @@ TestHW
 *.lai
 *.la
 *.a
+LastTestDate
 
 # Backup files
 *~
-LastTestDate
+
+# Image files
+*.bmp
+*.jp2
+*.jpg
+*.png
+*.tiff
+
