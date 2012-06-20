@@ -1,0 +1,146 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "HeatWave"=.\HeatWave\HeatWave.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "IIIGet"=.\IIIGet\IIIGet.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "IIISet"=.\IIISet\IIISet.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "MiscTool"=.\MiscTool\MiscTool.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name HeatWave
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name Miscalanious
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name Simple
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "Miscalanious"=.\Miscalanious\Miscalanious.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name HeatWave
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "Simple"=.\Simple\Simple.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "StatHeatWave"=.\StatHeatWave\StatHeatWave.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name HeatWave
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "TestHeatWave"=.\TestHeatWave\TestHeatWave.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name HeatWave
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "VisuHeatWave"=.\VisuHeatWave\VisuHeatWave.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name HeatWave
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+
